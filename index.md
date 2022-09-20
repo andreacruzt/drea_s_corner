@@ -1,10 +1,12 @@
 ---
 layout: home
-permalink: "/"
+permalink: /
 title: Athena Jekyll Theme
 
 ---
+Welcome to Drea's Corner! 
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+A new insight into everyday things
+
 
 
